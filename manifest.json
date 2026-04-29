@@ -1,0 +1,17 @@
+{
+
+  "name": "BMW i3 Charge Tool",
+
+  "short_name": "i3 Charge",
+
+  "start_url": ".",
+
+  "display": "standalone",
+
+  "background_color": "#000000",
+
+  "theme_color": "#0a84ff",
+
+  "icons": []
+
+}
