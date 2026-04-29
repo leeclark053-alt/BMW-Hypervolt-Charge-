@@ -61,5 +61,3 @@ window.onload = function () {
   updateVal("cval", document.getElementById("current").value);
 
   updateVal("tval", document.getElementById("target").value);
-
-};
